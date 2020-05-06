@@ -83,6 +83,16 @@ p.lead {
   color: #BD5D38;
 }
 
+#daniel-maslyn-img {
+  transform: rotate(90deg);
+  margin-top: 60px;
+  margin-bottom: 75px;
+}
+
+.activity-title {
+  margin-top: 2em !important;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;

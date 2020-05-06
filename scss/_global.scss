@@ -78,3 +78,17 @@ p.lead {
     }
   }
 }
+
+#daniel-maslyn-img {
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  margin-top: 60px;
+  margin-bottom: 75px;
+}
+
+.activity-title {
+  margin-top: 2em !important;
+}

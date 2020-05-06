@@ -25,4 +25,7 @@
     target: '#sideNav'
   });
 
+  //enable accordion functionality
+  // $('.collapse').collapse();
+
 })(jQuery); // End of use strict
